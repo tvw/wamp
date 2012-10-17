@@ -1,0 +1,20 @@
+= WAMP
+
+{<img src="https://secure.travis-ci.org/tvw/wamp.png?branch=master" alt="Build Status" />}[http://travis-ci.org/tvw/wamp]
+{<img src="https://gemnasium.com/tvw/wamp.png" alt="Dependency Status" />}[https://gemnasium.com/tvw/wamp]
+
+A set of commands to generate and manage a WAMP (Windows Apache MySQL PHP)
+installation.
+
+
+== Usage
+
+=== Installing the Gem
+
+
+  gem install wamp (not yet)
+
+
+== Author
+
+Thomas Volkmar Worm <mailto:tvw@s4r.de>
