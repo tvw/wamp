@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency "thor", "~> 0.16.0"
+  s.add_development_dependency 'rubygems-update', '>= 1.8.25'
   s.add_development_dependency 'rake', '>= 0.9.2'
   s.add_development_dependency 'rspec', '>= 2.11.0'
   s.add_development_dependency 'ZenTest', '>= 4.8.2'
